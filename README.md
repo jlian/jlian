@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I'm [John Lian](https://johnlian.net).
 
 - 🔭 I’m currently working on [Azure IoT Operations](https://azure.microsoft.com/products/iot-operations)
 - 🌱 I’m currently learning [Kubernetes](https://kubernetes.io/)
